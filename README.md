@@ -1,4 +1,4 @@
-# Light_Bulbs
+# Light Bulbs
 
 A simple project to interact with a light bulb. You can turn on or off, and if you double click, you broke the light bulb. You can test the project in this link : https://codepen.io/ronaldycgomes/pen/gOgLZba.
 
